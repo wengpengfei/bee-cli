@@ -6,7 +6,7 @@
   ],
   "version": "3.0.0",
   "changelog": {
-    "repo": "vuejs/vue-cli",
+    "repo": "wengpengfei/bee-cli",
     "labels": {
       "pr:feature": "sdf ss fNew Feature",
       "bug": "Bug Fix"
