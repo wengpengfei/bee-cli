@@ -1,3 +1,3 @@
 module.export = {
-  name: 'cli-test1232131231'
+  name: 'cli-test12321312312'
 }
