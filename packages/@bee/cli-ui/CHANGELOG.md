@@ -3,6 +3,103 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.7.1 (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计. ([6473d7b](https://github.com/wengpengfei/bee-cli/commit/6473d7bb0cc09f7e75d99f01faad741925c98880))
+
+
+
+# 1.7.0 (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计. ([bcb01a8](https://github.com/wengpengfei/bee-cli/commit/bcb01a8d114f3e842234d2daf377e8216ba6af28))
+
+
+
+# 1.6.0 (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计. ([91e7ef2](https://github.com/wengpengfei/bee-cli/commit/91e7ef2535a42c560b96978ba8a9a53fd3f2a0a6))
+
+
+
+# 1.5.0 (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计; ([ec74ef5](https://github.com/wengpengfei/bee-cli/commit/ec74ef566f40a953af77f0763972e16c16e80325))
+
+
+
+# 1.4.0 (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计; ([4dfc5e1](https://github.com/wengpengfei/bee-cli/commit/4dfc5e1e43772b7d813463dec664ddd41356bd3e))
+
+
+
+# 1.3.0 (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计 ([3c80835](https://github.com/wengpengfei/bee-cli/commit/3c80835e39a31535b76745c1c9d839e966e6d4aa))
+
+
+
+# 1.2.0 (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计 ([329bf2e](https://github.com/wengpengfei/bee-cli/commit/329bf2e1d6ed8bd00d0aba9e4c2cd7e295ecd476))
+
+
+
+## 1.1.2 (2019-10-16)
+
+
+
+## 1.1.1 (2019-10-16)
+
+
+
+# 1.1.0 (2019-10-16)
+
+
+
+## 1.0.4 (2019-10-16)
+
+
+
+## 1.0.3 (2019-10-16)
+
+
+
+## 1.0.2 (2019-10-16)
+
+
+
+## 1.0.2-alpha.0 (2019-10-16)
+
+
+
+## 1.0.1 (2019-10-16)
+
+
+
+
+
 # [1.7.0](https://github.com/wengpengfei/bee-cli/compare/v1.6.0...v1.7.0) (2019-10-16)
 
 
