@@ -6,9 +6,11 @@
   ],
   "version": "1.0.2",
   "changelog": {
+    "repo": "vuejs/vue-cli",
     "labels": {
-      "feature": "New Feature",
+      "feat": "New Feature",
       "bug": "Bug Fix"
-    }
+    },
+    "cacheDir": ".changelog"
   }
 }
