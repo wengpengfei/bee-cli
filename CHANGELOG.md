@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/wengpengfei/bee-cli/compare/v4.0.0...v5.0.0) (2019-10-16)
+
+
+### Features
+
+* 似懂非懂是似懂非懂是发 ([4de2f41](https://github.com/wengpengfei/bee-cli/commit/4de2f41d96099cf9664a220ea9042516618a2ece))
+* 思考接电话 ([7c24465](https://github.com/wengpengfei/bee-cli/commit/7c24465825076c5679dc4959267713b88e0bc6cd))
+* 我改这里的啊省会计的发速度快积分收款方 ([b8eb200](https://github.com/wengpengfei/bee-cli/commit/b8eb2007169d211da3c06a67164593555884409b))
+
+
+
+
+
+
 # [4.0.0](https://github.com/wengpengfei/bee-cli/compare/v3.0.0...v4.0.0) (2019-10-16)
 
 **Note:** Version bump only for package root
