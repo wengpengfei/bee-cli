@@ -8,7 +8,7 @@
   "changelog": {
     "repo": "vuejs/vue-cli",
     "labels": {
-      "feat": "New Feature",
+      "pr:feature": "sdfdsfsd dsNew Feature",
       "bug": "Bug Fix"
     },
     "cacheDir": ".changelog"
