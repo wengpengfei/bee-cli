@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bee/cli-test": "0.0.1"
+    "@bee/cli-test": "0.0.2"
   }
 }
