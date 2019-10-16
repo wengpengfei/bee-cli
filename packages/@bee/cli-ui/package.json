@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "@bee/cli-test": "^1.0.3"
+  },
+  "gitHead": "832c6d1c23b074206218bc6d0c0400028e5f868d",
+  "publishConfig": {
+    "registry": "http://192.168.1.49:9091/repository/private_npm_hosted/"
   }
 }
