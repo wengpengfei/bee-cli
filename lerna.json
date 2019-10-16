@@ -4,7 +4,7 @@
     "packages/*",
     "packages/@bee/*"
   ],
-  "version": "1.1.1",
+  "version": "1.1.2",
   "changelog": {
     "labels": {
       "feature": "New Feature",
