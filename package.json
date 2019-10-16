@@ -4,6 +4,10 @@
   "devDependencies": {
     "lerna": "^3.17.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wengpengfei/bee-cli.git"
+  },
   "dependencies": {
     "lerna-changelog": "^0.8.2"
   }
