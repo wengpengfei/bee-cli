@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/wengpengfei/bee-cli/compare/v1.5.0...v1.6.0) (2019-10-16)
+
+
+### Features
+
+* sd卡解放后会计. ([91e7ef2](https://github.com/wengpengfei/bee-cli/commit/91e7ef2535a42c560b96978ba8a9a53fd3f2a0a6))
+
+
+
+
+
 # [1.5.0](https://github.com/wengpengfei/bee-cli/compare/v1.4.0...v1.5.0) (2019-10-16)
 
 
