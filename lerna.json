@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "packages/*",
+    "packages/@bee/*"
+  ],
+  "version": "0.0.0"
+}
