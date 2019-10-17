@@ -4,11 +4,11 @@
     "packages/*",
     "packages/@bee/*"
   ],
-  "version": "5.0.0",
+  "version": "3.0.0",
   "changelog": {
     "repo": "wengpengfei/bee-cli",
     "labels": {
-      "pr:feature": "sdfdsfsd dsNew Feature",
+      "pr: feature": "sdfdsfsd dsNew Feature",
       "bug": "Bug Fix"
     },
     "cacheDir": ".changelog"
