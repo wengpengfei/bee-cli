@@ -1,6 +1,6 @@
 {
   "name": "@bee/cli-ui",
-  "version": "4.0.0",
+  "version": "6.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bee/cli-test": "^4.0.0"
+    "@bee/cli-test": "^6.0.1"
   },
   "repository": {
     "type": "git",
