@@ -2,7 +2,8 @@
   "name": "root",
   "private": true,
   "scripts": {
-    "changelog": "lerna-changelog"
+    "changelog": "lerna-changelog",
+    "build": ""
   },
   "devDependencies": {
     "lerna": "^3.17.0"
