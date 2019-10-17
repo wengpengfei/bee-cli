@@ -1,6 +1,6 @@
 {
   "name": "@bee/cli-test",
-  "version": "8.0.0",
+  "version": "8.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@bee/cli-server": "^8.0.0"
+    "@bee/cli-server": "^8.0.3"
   },
   "publishConfig": {
     "registry": "http://192.168.1.49:9091/repository/private_npm_hosted/"

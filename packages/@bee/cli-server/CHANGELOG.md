@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.0.3](https://github.com/wengpengfei/bee-cli/compare/v8.0.2...v8.0.3) (2019-10-17)
+
+**Note:** Version bump only for package @bee/cli-server
+
+
+
+
+
+
 ## [7.0.1](https://github.com/wengpengfei/bee-cli/compare/v7.0.0...v7.0.1) (2019-10-17)
 
 **Note:** Version bump only for package @bee/cli-server
