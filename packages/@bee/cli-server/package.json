@@ -1,6 +1,6 @@
 {
   "name": "@bee/cli-server",
-  "version": "6.0.5",
+  "version": "7.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
