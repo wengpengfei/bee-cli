@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [9.0.1](https://github.com/wengpengfei/bee-cli/compare/v9.0.0...v9.0.1) (2019-10-17)
+
+
+### Features
+
+* 大傻逼 ([aab1a99](https://github.com/wengpengfei/bee-cli/commit/aab1a994ca442a554012325429975d275eaff56e))
+
+
+### BREAKING CHANGES
+
+* kjsdhfkjhskhKjhsdkfj hsk十大科技和
+
+
+
+
+
 # [9.0.0](https://github.com/wengpengfei/bee-cli/compare/v8.0.5...v9.0.0) (2019-10-17)
 
 
