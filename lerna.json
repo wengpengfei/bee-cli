@@ -5,6 +5,11 @@
     "packages/@bee/*"
   ],
   "version": "8.0.2",
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  },
   "changelog": {
     "repo": "wengpengfei/bee-cli",
     "labels": {
